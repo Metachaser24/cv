@@ -94,9 +94,11 @@ color: #fff;
 
 @media (max-width: 991px) {
 
-  #title {
-    text-align: center;
+.title-page {
+  text-align: center;
   }
+  
+  
 
   .title-img {
     position: static;
